@@ -1,7 +1,7 @@
 from newsapi import NewsApiClient
 import datetime
 
-newsapi = NewsApiClient(api_key='xd')
+newsapi = NewsApiClient(api_key='cfae74946625462a9ea7eaed74890cba')
 
 today = datetime.date.today()
 yesterday = today - datetime.timedelta(days=1)
