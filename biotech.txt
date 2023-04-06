@@ -1,0 +1,101 @@
+Symbol	Name	Price (Intraday)	Change	% Change	Volume	Avg Vol (3 month)	Market Cap	PE Ratio (TTM)	52 Week Range
+NVO	Novo Nordisk A/S	157.90	-0.68	-0.43%	1.332M	1.413M	357.143B	44.11	
+REGN	Regeneron Pharmaceuticals, Inc.	825.22	+3.13	+0.38%	560,037	649,839	89.72B	21.48	
+VRTX	Vertex Pharmaceuticals Incorporated	321.94	+7.52	+2.39%	1.126M	1.278M	82.768B	25.01	
+MRNA	Moderna, Inc.	154.61	-1.91	-1.22%	2.279M	3.565M	60.366B	7.64	
+SGEN	Seagen Inc.	205.00	+0.11	+0.05%	2.128M	1.452M	38.358B	N/A	
+BNTX	BioNTech SE	125.60	-0.27	-0.21%	333,188	665,637	30.334B	3.16	
+ALNY	Alnylam Pharmaceuticals, Inc.	200.82	-1.88	-0.93%	615,599	811,222	25.195B	N/A	
+GMAB	Genmab A/S	38.28	+0.76	+2.03%	471,228	527,804	24.967B	30.87	
+BGNE	BeiGene, Ltd.	212.00	-3.00	-1.40%	102,047	233,206	22.585B	N/A	
+ARGX	argenx SE	373.18	+5.71	+1.55%	202,673	225,313	20.738B	N/A	
+BMRN	BioMarin Pharmaceutical Inc.	96.57	+1.14	+1.19%	1.042M	1.479M	18.013B	130.50	
+INCY	Incyte Corporation	73.78	+1.13	+1.56%	1.493M	1.609M	16.45B	48.22	
+RPRX	Royalty Pharma plc	36.27	+0.63	+1.77%	1.376M	1.942M	16.074B	362.70	
+SRPT	Sarepta Therapeutics, Inc.	137.54	-1.04	-0.75%	857,976	1.409M	12.192B	N/A	
+TECH	Bio-Techne Corporation	74.04	+0.24	+0.33%	1.029M	986,891	11.645B	45.99	
+UTHR	United Therapeutics Corporation	232.99	+5.81	+2.56%	520,591	553,750	10.788B	15.01	
+JAZZ	Jazz Pharmaceuticals plc	145.78	+1.79	+1.24%	680,705	523,488	9.285B	N/A	
+APLS	Apellis Pharmaceuticals, Inc.	77.32	-0.72	-0.92%	1.688M	1.765M	8.685B	N/A	
+LEGN	Legend Biotech Corporation	48.17	+1.89	+4.08%	698,223	633,995	7.951B	N/A	
+EXEL	Exelixis, Inc.	19.89	+0.34	+1.74%	3.413M	3.279M	6.446B	35.52	
+IONS	Ionis Pharmaceuticals, Inc.	36.59	+1.24	+3.51%	1.194M	937,406	5.231B	N/A	
+RXDX	Prometheus Biosciences, Inc.	108.58	-0.03	-0.03%	366,856	489,731	5.161B	N/A	
+HALO	Halozyme Therapeutics, Inc.	37.43	-0.04	-0.11%	1.204M	1.627M	5.069B	25.64	
+MDGL	Madrigal Pharmaceuticals, Inc.	236.74	-3.84	-1.60%	191,040	405,380	4.294B	N/A	
+ASND	Ascendis Pharma A/S	71.19	-0.24	-0.34%	1.998M	441,293	4.069B	N/A	
+ISEE	IVERIC bio, Inc.	26.43	+0.19	+0.72%	1.209M	2.467M	3.624B	N/A	
+MRVI	Maravai LifeSciences Holdings, Inc.	13.52	-0.04	-0.29%	775,304	1.279M	3.568B	8.05	
+PTCT	PTC Therapeutics, Inc.	47.45	-0.05	-0.11%	351,222	745,483	3.508B	N/A	
+CYTK	Cytokinetics, Incorporated	36.16	-0.17	-0.47%	520,596	1.002M	3.441B	N/A	
+DNLI	Denali Therapeutics Inc.	24.11	+0.45	+1.90%	793,800	700,788	3.336B	N/A	
+VIR	Vir Biotechnology, Inc.	23.20	-0.11	-0.47%	681,066	1.049M	3.113B	6.07	
+PCVX	Vaxcyte, Inc.	37.63	+0.11	+0.29%	745,188	672,557	3.012B	N/A	
+ACAD	ACADIA Pharmaceuticals Inc.	18.28	-0.20	-1.08%	864,964	1.582M	2.966B	N/A	
+ABCM	Abcam plc	12.62	-0.13	-1.02%	368,549	652,337	2.894B	N/A	
+ARWR	Arrowhead Pharmaceuticals, Inc.	25.27	+0.11	+0.44%	642,075	1.103M	2.737B	N/A	
+RARE	Ultragenyx Pharmaceutical Inc.	38.74	-1.40	-3.49%	575,460	599,039	2.818B	N/A	
+BPMC	Blueprint Medicines Corporation	42.39	+0.19	+0.45%	640,756	584,567	2.543B	N/A	
+PRTA	Prothena Corporation plc	48.26	-0.26	-0.54%	223,899	458,062	2.537B	N/A	
+BBIO	BridgeBio Pharma, Inc.	15.53	-0.06	-0.38%	1.883M	3.184M	2.488B	N/A	
+GLPG	Galapagos NV	37.67	-0.15	-0.40%	119,800	282,645	2.482B	N/A	
+IMCR	Immunocore Holdings plc	48.54	-0.86	-1.74%	338,304	271,396	2.336B	N/A	
+PRVB	Provention Bio, Inc.	24.30	0.00	0.00%	2.807M	2.284M	2.303B	N/A	
+INSM	Insmed Incorporated	16.44	-0.29	-1.73%	676,752	1.262M	2.242B	N/A	
+RVMD	Revolution Medicines, Inc.	20.42	+0.14	+0.69%	784,009	1.325M	2.168B	N/A	
+MRTX	Mirati Therapeutics, Inc.	37.10	-0.24	-0.64%	673,037	1.145M	2.167B	N/A	
+BEAM	Beam Therapeutics Inc.	29.32	-0.25	-0.85%	755,624	937,547	2.123B	N/A	
+ABCL	AbCellera Biologics Inc.	7.15	-0.06	-0.83%	1.13M	1.654M	2.057B	14.30	
+IMVT	Immunovant, Inc.	14.36	-0.13	-0.90%	921,676	946,932	1.87B	N/A	
+AMLX	Amylyx Pharmaceuticals, Inc.	27.81	-0.83	-2.90%	529,780	951,418	1.857B	N/A	
+FGEN	FibroGen, Inc.	18.85	+0.06	+0.32%	909,686	921,747	1.775B	N/A	
+AKRO	Akero Therapeutics, Inc.	36.89	-0.89	-2.36%	593,426	596,024	1.733B	N/A	
+VTYX	Ventyx Biosciences, Inc.	28.53	-2.36	-7.64%	1.305M	834,504	1.798B	N/A	
+BCRX	BioCryst Pharmaceuticals, Inc.	8.53	+0.23	+2.77%	2.51M	2.982M	1.607B	N/A	
+SWTX	SpringWorks Therapeutics, Inc.	24.75	+0.14	+0.57%	482,331	714,211	1.547B	N/A	
+ARVN	Arvinas, Inc.	28.46	+0.12	+0.42%	422,649	508,768	1.516B	N/A	
+KDNY	Chinook Therapeutics, Inc.	22.29	-0.06	-0.27%	313,865	533,834	1.468B	N/A	
+PLRX	Pliant Therapeutics, Inc.	24.81	-0.55	-2.17%	590,773	824,214	1.462B	N/A	
+SNDX	Syndax Pharmaceuticals, Inc.	20.10	-0.19	-0.94%	808,421	796,691	1.389B	N/A	
+ACLX	Arcellx, Inc.	27.49	-0.84	-2.97%	389,348	420,513	1.315B	N/A	
+RCUS	Arcus Biosciences, Inc.	17.83	-0.06	-0.34%	405,455	1.035M	1.306B	N/A	
+NUVL	Nuvalent, Inc.	23.58	-0.49	-2.04%	196,192	215,324	1.209B	N/A	
+ADPT	Adaptive Biotechnologies Corporation	8.43	-0.30	-3.44%	589,209	924,485	1.25B	N/A	
+AGIO	Agios Pharmaceuticals, Inc.	21.66	+0.06	+0.28%	299,501	545,903	1.197B	N/A	
+RXRX	Recursion Pharmaceuticals, Inc.	6.45	-0.12	-1.83%	817,183	969,519	1.256B	N/A	
+ELVN	Enliven Therapeutics, Inc.	23.06	+0.31	+1.36%	83,114	114,446	945.725M	N/A	
+REPL	Replimune Group, Inc.	16.51	-0.40	-2.37%	411,093	605,781	935.374M	N/A	
+DAWN	Day One Biopharmaceuticals, Inc.	12.59	-0.03	-0.24%	521,710	709,208	926.462M	N/A	
+BMEA	Biomea Fusion, Inc.	25.91	-0.65	-2.45%	991,855	669,509	916.141M	N/A	
+QURE	uniQure N.V.	19.41	-0.43	-2.17%	434,215	570,996	932.132M	N/A	
+BHVN	Biohaven Ltd.	12.97	-0.70	-5.12%	1.334M	1.013M	884.716M	N/A	
+CRNX	Crinetics Pharmaceuticals, Inc.	15.95	-0.30	-1.85%	274,657	433,957	859.847M	N/A	
+CBAY	CymaBay Therapeutics, Inc.	8.55	-0.06	-0.70%	1.272M	1.751M	831.859M	N/A	
+VERV	Verve Therapeutics, Inc.	13.34	-0.03	-0.22%	1.362M	727,485	826.71M	N/A	
+BLU	BELLUS Health Inc.	6.46	-0.42	-6.10%	770,392	664,190	818.217M	N/A	
+KURA	Kura Oncology, Inc.	11.94	-0.28	-2.29%	296,077	658,073	817.157M	N/A	
+ENTA	Enanta Pharmaceuticals, Inc.	38.49	-0.36	-0.93%	175,855	179,359	803.918M	N/A	
+INVA	Innoviva, Inc.	11.62	+0.22	+1.93%	502,669	734,877	791.625M	4.84	
+RGNX	REGENXBIO Inc.	18.17	-0.95	-4.97%	555,351	429,419	831.025M	N/A	
+VALN	Valneva SE	10.96	+0.08	+0.74%	2,909	5,813	772.918M	N/A	
+COGT	Cogent Biosciences, Inc.	10.70	+0.11	+1.04%	620,300	624,383	748.431M	N/A	
+CALT	Calliditas Therapeutics AB (publ)	23.85	-0.34	-1.41%	5,787	14,472	733.066M	N/A	
+KNSA	Kiniksa Pharmaceuticals, Ltd.	10.44	-0.11	-1.04%	243,666	389,919	714.946M	3.91	
+MCRB	Seres Therapeutics, Inc.	5.61	-0.19	-3.28%	2.436M	969,831	707.286M	N/A	
+ARQT	Arcutis Biotherapeutics, Inc.	11.09	+0.31	+2.88%	1.291M	982,822	677.409M	N/A	
+IDYA	IDEAYA Biosciences, Inc.	13.75	-0.29	-2.07%	213,897	377,011	665.324M	N/A	
+TYRA	Tyra Biosciences, Inc.	15.57	-0.10	-0.64%	18,659	55,477	660.732M	N/A	
+NVAX	Novavax, Inc.	7.59	+0.25	+3.41%	5.796M	6.382M	654.055M	N/A	
+BCYC	Bicycle Therapeutics plc	21.23	+0.20	+0.95%	260,922	352,388	637.348M	N/A	
+TERN	Terns Pharmaceuticals, Inc.	11.03	-0.47	-4.09%	255,621	341,280	625.066M	N/A	
+AVXL	Anavex Life Sciences Corp.	7.87	-0.20	-2.48%	788,984	1.166M	629.72M	N/A	
+ZYME	Zymeworks Inc.	9.41	+0.01	+0.11%	643,246	698,039	602.629M	4.75	
+ANAB	AnaptysBio, Inc.	21.31	-0.39	-1.80%	242,202	292,360	595.21M	N/A	
+VECT	VectivBio Holding AG	8.70	0.00	0.00%	21,878	32,222	586.309M	N/A	
+MLYS	Mineralys Therapeutics, Inc.	13.94	-0.49	-3.40%	164,048	326,013	580.665M	N/A	
+HLVX	HilleVax, Inc.	13.97	-1.78	-11.30%	582,275	47,700	548.352M	N/A	
+ICPT	Intercept Pharmaceuticals, Inc.	12.96	-0.08	-0.61%	662,089	752,601	540.044M	N/A	
+FDMT	4D Molecular Therapeutics, Inc.	16.11	-0.97	-5.68%	187,915	344,763	535.406M	N/A	
+DYN	Dyne Therapeutics, Inc.	9.11	-0.39	-4.11%	404,965	331,498	534.142M	N/A	
+ALEC	Alector, Inc.	6.15	+0.13	+2.16%	703,063	558,575	510.622M	N/A	
+TSVT	2seventy bio, Inc.	9.94	-0.08	-0.80%	556,212	865,445	502.901M	N/A	
