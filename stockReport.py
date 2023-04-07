@@ -3,14 +3,15 @@ import os
 from textblob import TextBlob
 from bs4 import BeautifulSoup
 
-stockFile = os.getcwd() + '\\biotech.txt'
+stockType = input('Stock Type: ')
+stockFile = os.getcwd() + f'\\symbols\\{stockType}.txt'
 
 f = open(stockFile, 'r').read().splitlines()
 stockNames = [i[:i.index('\t')] for i in f][1:]
 
 results = []
 for stock_symbol in stockNames:
-    url = f'https://www.marketwatch.com/investing/stock/{stock_symbol}/news'
+    url = f'https://www.marketwatch.com/investing/stock/{stock_symbol}'
 
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
