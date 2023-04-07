@@ -21,6 +21,7 @@ ordSents = dict(sorted(results.items(), key=lambda item: item[1], reverse=True))
 
 cash = 100
 
-for stockName in ordSents[:20]:
+for stockName in list(ordSents)[:20]:
+    print(f'Buying 100$ of {stockName}')
     stopLoss(client, stockName, cash, stop=0.95, take=1.05)
 
