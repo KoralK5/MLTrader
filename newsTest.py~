@@ -24,4 +24,4 @@ for article in articles:
 
 print()
 print(f'Stock: {stock_symbol}')
-print(f'Total Score: {round(score, 2)} (x>5 => Buy)')
+print(f'Total Score: {round(score, 1)} (x>5 => Buy)')
