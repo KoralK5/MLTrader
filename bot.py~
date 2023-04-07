@@ -14,7 +14,7 @@ SECRET_KEY = 'eElymeK26x5bKKn5yuPmUZz2SOXVLeg14LEnLLo2'
 client = TradingClient(API_KEY, SECRET_KEY, paper=True)
 
 df = pd.DataFrame(si.tickers_sp500())
-symbols = set(symbol for symbol in df[0].values.tolist())
+symbols = list(set(symbol for symbol in df[0].values.tolist()))[:2]
 
 results = sentiments(symbols, progress=True)
 ordSents = dict(sorted(results.items(), key=lambda item: item[1], reverse=True))
