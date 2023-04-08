@@ -1,7 +1,6 @@
 from alpaca.trading.client import TradingClient
 from alpaca.trading.requests import MarketOrderRequest
 from alpaca.trading.enums import OrderSide, TimeInForce
-import alpaca_trade_api as tradeapi
 
 import requests
 from bs4 import BeautifulSoup
@@ -18,13 +17,13 @@ def getPrice(symbol):
 def stopLoss(client, symbol, cash, stop=0.95, take=1.05):
     symbol_price = getPrice(symbol)
 
-    client.submit_order(
+    client.submit_order(order_data=MarketOrderRequest(
         symbol=symbol,
-        qty=cash/symbol_price,
+        qty=cash//symbol_price,
         side='buy',
         type='market',
         time_in_force='day',
         order_class='bracket',
-        stop_loss={'stop_price': symbol_price * stop},
-        take_profit={'limit_price': symbol_price * take}
-    )
+        stop_loss={'stop_price': round(symbol_price * stop, 2)},
+        take_profit={'limit_price': round(symbol_price * take, 2)}
+    ))
