@@ -17,14 +17,21 @@ client = TradingClient(API_KEY, SECRET_KEY, paper=True)
 df = pd.DataFrame(si.tickers_sp500())
 symbols = set(symbol for symbol in df[0].values.tolist())
 
+investMinutes = 15
 cash = 1000
 
 while True:
     results = sentiments(symbols, progress=True)
     ordSents = dict(sorted(results.items(), key=lambda item: item[1], reverse=True))
 
-    for stockName in list(ordSents)[:20]:
+    # long
+    for stockName in list(ordSents)[:10]:
         print(f'Buying ${cash} of {stockName}')
         stopLoss(client, stockName, cash, stop=0.95, take=1.05)
 
-    time.sleep(15*60)
+    # short
+    for stockName in list(ordSents)[-10:]:
+        print(f'Buying ${cash} of {stockName}')
+        stopLoss(client, stockName, cash, buy=False, stop=0.95, take=1.05)
+
+    time.sleep(investMinutes*60)

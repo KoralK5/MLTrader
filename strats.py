@@ -14,13 +14,13 @@ def getPrice(symbol):
     current_price = float(current_price_tag["value"])
     return current_price
 
-def stopLoss(client, symbol, cash, stop=0.95, take=1.05):
+def stopLoss(client, symbol, cash, buy=True, stop=0.95, take=1.05):
     symbol_price = getPrice(symbol)
 
     client.submit_order(order_data=MarketOrderRequest(
         symbol=symbol,
         qty=cash//symbol_price,
-        side='buy',
+        side='buy' if buy else 'sell',
         type='market',
         time_in_force='day',
         order_class='bracket',

@@ -17,6 +17,7 @@ client = TradingClient(API_KEY, SECRET_KEY, paper=True)
 df = pd.DataFrame(si.tickers_sp500())
 symbols = set(symbol for symbol in df[0].values.tolist())
 
+investMinutes = 15
 cash = 1000
 
 while True:
@@ -27,4 +28,4 @@ while True:
         print(f'Buying ${cash} of {stockName}')
         stopLoss(client, stockName, cash, stop=0.95, take=1.05)
 
-    time.sleep(15*60)
+    time.sleep(investMinutes*60)
