@@ -20,10 +20,10 @@ def stopLoss(client, symbol, cash, buy=True, stop=0.95, take=1.05):
     client.submit_order(order_data=MarketOrderRequest(
         symbol=symbol,
         qty=cash//symbol_price,
-        side='buy',
+        side='buy' if buy else 'sell',
         type='market',
         time_in_force='day',
         order_class='bracket',
-        stop_loss={'stop_price': round(symbol_price * stop, 2)},
-        take_profit={'limit_price': round(symbol_price * take, 2)}
+        stop_loss={'stop_price': round(symbol_price * (stop if buy else take), 2)},
+        take_profit={'limit_price': round(symbol_price * (take if buy else take), 2)}
     ))

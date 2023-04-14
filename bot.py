@@ -32,6 +32,6 @@ while True:
     # short
     for stockName in list(ordSents)[-10:]:
         print(f'Buying ${cash} of {stockName}')
-        stopLoss(client, stockName, cash, buy=False, stop=0.95, take=1.05)
+        stopLoss(client, stockName, cash, buy=False, stop=1.05, take=0.95)
 
     time.sleep(investMinutes*60)
