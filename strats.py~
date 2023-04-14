@@ -36,5 +36,3 @@ def stopLoss(client, symbol, cash, buy=True, stop=0.95, take=1.05):
         stop_loss={'stop_price': stop_loss},
         take_profit={'limit_price': take_profit}
     ))
-
-print(floor(10.21414, 2))
