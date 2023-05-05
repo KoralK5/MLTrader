@@ -24,11 +24,11 @@ def stopLoss(client, symbol, cash, buy=True, stop=0.95, take=1.05):
             symbol=symbol,
             qty=cash//symbol_price,
             side='buy' if buy else 'sell',
-            type='market',
-            time_in_force='day',
-            order_class='bracket',
+            type='limit',
+            time_in_force='gtc',
             stop_loss={'stop_price': round(stop_loss, 2)},
             take_profit={'limit_price': round(take_profit, 2)}
         ))
     except:
         return
+

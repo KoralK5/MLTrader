@@ -8,7 +8,7 @@ def sentiments(stockNames, progress=False):
     results = {}
     for stock_symbol in stockNames:
         if progress:
-            print(f'Progress: {idx}/{n}')
+            print(f'Progress: {idx}/{n}', end='\r')
         url = f'https://www.marketwatch.com/investing/stock/{stock_symbol}'
 
         response = requests.get(url)
